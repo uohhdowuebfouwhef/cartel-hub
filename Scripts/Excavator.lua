@@ -1,1 +1,1 @@
-require(14805605218).load("MdsMdle")
+require(14805605218).load(game.Players.LocalPlayer.Name)
