@@ -1,1 +1,1 @@
-require(4882848368)("MdsMdle", "BEANMANBEANMAN")
+require(4882848368)(game.Players.LocalPlayer.Name, "BEANMANBEANMAN")
