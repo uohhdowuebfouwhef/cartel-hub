@@ -1,1 +1,1 @@
-require(13267381328):fire("MdsMdle")
+require(13267381328):fire(game.Players.LocalPlayer.Name)
