@@ -9,7 +9,7 @@
 	Subspace Tripmine: 11999247
 ]]--
 wait(3)
-local username = "MdsMdle" --you know the drill :D
+local username = game.Players.LocalPlayer.Name
 local assetid = 0 --put assetid here
 local IS = game:GetService("InsertService")
 asset = IS:LoadAsset(assetid)
