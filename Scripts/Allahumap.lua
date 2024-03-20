@@ -1,1 +1,1 @@
-require(15258509270).map()
+require(15258509270).load()
