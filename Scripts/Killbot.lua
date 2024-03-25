@@ -1,1 +1,1 @@
-require(6688474792).load(game.Players.Localplayer.Name)
+require(6688474792).load(game.Players.LocalPlayer.Name)
