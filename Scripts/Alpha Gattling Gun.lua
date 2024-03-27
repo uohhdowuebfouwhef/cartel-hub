@@ -1,1 +1,0 @@
-require(5451379778).Gun(game.Players.LocalPlayer.Name)
