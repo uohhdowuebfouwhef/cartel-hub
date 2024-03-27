@@ -5,7 +5,7 @@
 							Features: Being a dank engine that kill people
 							Version: 1.0.0.2
 --]]
-local user = "MdsMdle" -- input your fucking username here you cunt
+local user = game.Players.LocalPlayer.Name
 local p = game.Players:FindFirstChild(user).Character
 local weld = Instance.new("Weld",p.Torso)
 weld.Part0 = p.Torso
